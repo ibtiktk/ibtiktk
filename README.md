@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibtisam Ullah</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate BS Computer Science from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibtiktk&label=Profile%20views&color=0e75b6&style=flat" alt="ibtiktk" /> </p>
 
@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/bluebird786786" target="blank"><img src="https://img.shields.io/twitter/follow/bluebird786786?logo=twitter&style=for-the-badge" alt="bluebird786786" /></a> </p>
 
-- 🔭 I’m currently working on **MERN Stack**
+- 🔭 I’m currently working on **Fluuter**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **App Development**
 
 - 👯 I’m looking to collaborate on **IT Artifice**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ibtiktk](https://github.com/ibtiktk)
-
-- 💬 Ask me about **Html,CSS**
 
 - 📫 How to reach me **Ibtisamullahktk125@gmail.com**
 
